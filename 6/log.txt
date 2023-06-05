@@ -1,0 +1,4 @@
+Mon, 05 Jun 2023 16:30:43 || text/html || 127.0.0.1 || ./web_files/index || 200 OK || 16:30:43
+Mon, 05 Jun 2023 16:30:43 || text/html || 127.0.0.1 || 501 Not Implemented || 16:30:43
+Mon, 05 Jun 2023 18:13:54 || text/html || 127.0.0.1 || ./web_files/index || 200 OK || 18:13:54
+Mon, 05 Jun 2023 18:13:54 || text/html || 127.0.0.1 || 501 Not Implemented || 18:13:54
