@@ -1,6 +1,5 @@
 import socket
 
-# Введите простые числа для основания и модуля.
 BASE = 5
 MODULUS = 23
 
@@ -10,7 +9,7 @@ class Server:
         self.host = host
         self.port = port
 
-        self.private_key = 6  # Введите свой секретный ключ.
+        self.private_key = 6 
         self.public_key = (BASE ** self.private_key) % MODULUS
 
     def start(self):
