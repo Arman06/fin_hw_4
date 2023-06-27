@@ -2,3 +2,9 @@ Mon, 05 Jun 2023 16:30:43 || text/html || 127.0.0.1 || ./web_files/index || 200 
 Mon, 05 Jun 2023 16:30:43 || text/html || 127.0.0.1 || 501 Not Implemented || 16:30:43
 Mon, 05 Jun 2023 18:13:54 || text/html || 127.0.0.1 || ./web_files/index || 200 OK || 18:13:54
 Mon, 05 Jun 2023 18:13:54 || text/html || 127.0.0.1 || 501 Not Implemented || 18:13:54
+Tue, 27 Jun 2023 14:12:08 || text/html || 127.0.0.1 || ./web_files/index || 200 OK || 14:12:08
+Tue, 27 Jun 2023 14:12:08 || text/html || 127.0.0.1 || 501 Not Implemented || 14:12:08
+Tue, 27 Jun 2023 14:12:08 || text/html || 127.0.0.1 || 404 Not Found || 14:12:08
+Tue, 27 Jun 2023 14:12:08 || text/html || 127.0.0.1 || 404 Not Found || 14:12:08
+Tue, 27 Jun 2023 14:12:44 || text/html || 127.0.0.1 || ./web_files/index || 200 OK || 14:12:44
+Tue, 27 Jun 2023 14:12:53 || text/html || 127.0.0.1 || ./web_files/index || 200 OK || 14:12:53

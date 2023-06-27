@@ -55,7 +55,7 @@ def main():
     config = read_config_file("config.txt")
 
     host = config.get("HOST", "localhost")
-    port = int(config.get("PORT", 12345))
+    port = int(config.get("PORT", 8000))
     max_request_size = int(config.get("MAX_REQUEST_SIZE", 1024))
     working_directory = config.get("WORKING_DIRECTORY", ".")
 
