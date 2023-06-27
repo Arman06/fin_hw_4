@@ -11,7 +11,7 @@ class Client:
         self.sock = socket.socket()
         self.sock.connect((host, port))
 
-        self.private_key = 15  # Введите свой секретный ключ.
+        self.private_key = 15 
         self.public_key = (BASE ** self.private_key) % MODULUS
 
     def exchange_keys(self):
