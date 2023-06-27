@@ -2,7 +2,6 @@ import socket
 
 import socket
 
-# Введите простые числа для основания и модуля.
 BASE = 5
 MODULUS = 23
 
